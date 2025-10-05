@@ -1,6 +1,6 @@
-# FlunkyStats - Generator Statistika Flunky-ja
+# FlunkyStats - Generator Statistika Konzumacije
 
-FlunkyStats je Python skripta za generiranje detaljnih statistika i vizualizacija iz podataka Flunky-ja.
+FlunkyStats je Python skripta za generiranje detaljnih statistika i vizualizacija iz podataka konzumacija piva na dnevnoj bazi.
 
 ## 📋 Sadržaj
 - [Struktura Direktorija](#struktura-direktorija)
